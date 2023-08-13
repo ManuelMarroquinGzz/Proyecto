@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta cherset="UTF-8">
+<meta http-equiv="X-UA-Compatible"
+content="IE=edge">
+<neta name="viewport"
+content="width=device-width, initial-scale=1.
+0">
+
+<link rel="stylesheet" href="estilos.css"
+
+</head>
+<body>
+
+<header> 
+	<a href="#" class="logo">
+		<img src="logo.png" alt="logo de la compañia">
+		
+	</a>
+
+	<nav>
+	<a href="" class="nav-link">Inicio</a>
+	<a href="" class="nav-link">Sobre Nosotros</a>
+	<a href="" class="nav-link">Contacto</a>
+	</nav>
+</header>
+
+<h1> Sobre el Marketing </h1>
+<br>
+<div class="terms">
+<center>
+<h3 class="Text">
+Una empresa de marketing es una entidad especializada en impulsar el éxito comercial de otras empresas a través de estrategias y tácticas innovadoras. Nuestro enfoque principal radica en comprender profundamente las necesidades y objetivos de nuestros clientes para crear campañas personalizadas y efectivas.
+<br> <br>
+El objetivo de nuestra empresa de marketing es proporcionar a nuestros clientes una ventaja competitiva en un mercado en constante evolución. A través de la combinación de creatividad, análisis de datos y conocimientos profundos del comportamiento del consumidor, trabajamos incansablemente para llevar a las marcas al siguiente nivel y asegurarnos de que alcancen y superen sus objetivos comerciales.
+<br> <br>
+Nuestro equipo de expertos en marketing emplea una combinación de investigación de mercado, análisis de datos y creatividad para desarrollar estrategias que aumenten la visibilidad de la marca, generen interacción con la audiencia y, en última instancia, impulsen el crecimiento de las ventas. Desde la identificación de audiencias clave hasta la selección de canales apropiados, estamos comprometidos en optimizar cada paso del proceso.
+<br> <br>
+Utilizamos una amplia gama de herramientas y técnicas, que van desde el marketing digital, como la optimización de motores de búsqueda (SEO) y la publicidad en redes sociales, hasta el marketing tradicional, como la creación de campañas publicitarias y relaciones públicas. Además, monitorizamos y evaluamos constantemente el rendimiento de las estrategias implementadas, ajustando nuestro enfoque según los resultados y las tendencias emergentes.
+<br>
+</h3>
+</center>
+
+<aside> 
+<img src="imagen.png"  align="right" alt="Imagen de lado">
+</aside>
+
+</div>
+
+<div class= "container">
+<table class="tabla">
+<thead>
+		<tr>
+	<th>Gestión y recolección de datos</th>
+	<th>Posicionamiento en red</th>
+	<th>Posicionamiento en el mercado</th>
+		</tr>
+
+
+		<tr>
+	<th>Comparamos los datos que se nos proporcionan mediante los diferentes métodos para corroborar datos</th>
+	<th>Comparamos los datos que tenemos dentro de las redes para comparación </th>
+	<th>Con nuestros conocimientos dentro del mercado podemos ver las nuevas tendencias del mercado y las inversiones </th>
+		</tr>
+
+		<tr>
+	<th>Desarrollo de algoritmos</th>
+	<th>Diseño grafico</th>
+	<th>Diseño de comercio virtual</th>
+		</tr>
+
+		<tr>
+	<th>Contamos con algoritmos que automáticamente pueden calcular y comprara datos de nuestras bases de datos para el contraste de información </th>
+	<th>Contamos con un equipo que esta especializado en el diseño y el apartado de cara al público dentro de nuestros proyectos </th>
+	<th>Tenemos un enfoque también ambientado dentro de estos nuevos ambientes virtuales para adaptarnos a nuevos enfoques </th>
+		</tr>
+</thead>
+
+</table>
+</div>
+
+<footer>
+
+<FONT COLOR="white">Contactanos aquí: </FONT>
+</footer>
+</body>
+</html>
